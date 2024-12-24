@@ -1,7 +1,5 @@
 <h1 align="center"> Sistema de Conversão de Unidades de Comprimento</h1>
 
-
-
 ## 📋 Sobre
 <p align="justify"> 
 Este programa permite realizar diferentes conversões de unidades de comprimento como, metro, centímetro, milímetro e quilômetro.
@@ -9,7 +7,7 @@ Este programa permite realizar diferentes conversões de unidades de comprimento
 
 ## 🚀 Funcionalidades
 - Conversão de metros (m) para:
-    - Centímetro (cm)
+    - Centímetros (cm)
     - Milímetros (mm)
 - Conversão de centímetros (cm) para:
     - Metros (m)
@@ -18,6 +16,9 @@ Este programa permite realizar diferentes conversões de unidades de comprimento
     - Metros (m)
 - Conversão de quilômetros (km) para:
     - Metros (m)
+    - Centímetros (cm)
+    - Milímetros (mm)
+
 
 ## 🛠️ Instruções de Uso
 <p align="justify"> 
@@ -40,4 +41,12 @@ Ao executar o programa é exibido um MENU inicial com opções de unidade de con
     - Escolha a opção 0 para sair do programa.
 
 ## 👨‍💻 Contribuidores: 
+- [Adrian Trajano](https://github.com/AdrianTr97)
+- [Eduardo Lino](https://github.com/Linosz)
+- [Emmanuel Souza](https://github.com/EmmanuelS-S) 
+- [Gabriel Marcone](https://github.com/gabrielmarcone)
+- [Kauan Teixeira](https://github.com/kauanth21)
+- [Matheus Amorim](https://github.com/Matheus0o0)
+- [Vitória Tanan](https://github.com/vitoriatanan)
+
 
