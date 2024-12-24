@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 
 void carregamento() {
@@ -167,10 +168,17 @@ int main() {
                     break;
                 } // mm para m
                 case 2: {
-                    
+                    printf("Voce escolheu a unidade milimetro (mm).\n");
+                    printf("Digite o valor em milimetros (mm) para converte-lo em metro (m): ");
+                    scanf("%f", &valor);
+                    printf("\n%.2f milimetro(s) (mm) equivalem a %.2f metro(s) (m).\n", valor, valor / 1000);
                     break;
                 }    // mm para km
                 case 3: {
+                    printf("Voce escolheu a unidade milimetro (mm).\n");
+                    printf("Digite o valor em milimetros (mm) para converte-lo em metro (cm): ");
+                    scanf("%f", &valor);
+                    printf("\n%.2f milimetro(s) (mm) equivalem a %.2f quilometro(s) (km).\n", valor, valor / 1000000);
                     break;
                 } 
                 default:
@@ -191,4 +199,4 @@ int main() {
     printf("Obrigado por usar o nosso sistema! Volte sempre!");
 
     return 0;
-}
+    }
